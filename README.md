@@ -1,0 +1,1 @@
+# scylla-machine-image
